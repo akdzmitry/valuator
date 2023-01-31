@@ -6,7 +6,7 @@
 
 .header {
     width: 100%;
-    background-image: linear-gradient(to right, #41463D, #4C6672);
+    background-image: linear-gradient(to right, #712CE2, #4A4956);
 }
 
 .navbar-brand {
@@ -18,7 +18,7 @@
 }
 
 .nav-link:hover {
-    color: #DA5455 !important;
+    color: #F1EBFB !important;
 }
 
 @media(max-width:668px) {
